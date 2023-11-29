@@ -1,0 +1,28 @@
+﻿  Calculator.cpp
+  EquationSolver.cpp
+  Proiect_POO.cpp
+  Shunting_Yard.cpp
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(59,51): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(60,71): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(61,45): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(73,51): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(74,45): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(78,49): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(88,47): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(89,44): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\Shunting_Yard.cpp(92,43): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Stack.cpp
+  Generating Code...
+  Proiect_POO.vcxproj -> C:\Users\Ioana\OneDrive - Academia de Studii Economice din Bucuresti\AN III\poo - restanta\Proiect_POO\x64\Debug\Proiect_POO.exe
