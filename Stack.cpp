@@ -87,6 +87,7 @@ void Stack::push(double element) {
 
 	nrLungime++;
 	array = new double[nrLungime];
+
 	for (int i = 0; i < nrLungime - 1; i++) {
 		array[i] = temp[i];
 	}
