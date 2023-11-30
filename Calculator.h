@@ -44,4 +44,4 @@ istream& operator>>(istream& in, Calculator& c);
 
 ostream& operator << (ostream& out, Calculator c);
 
-#endif //SCIENTIFIC_CALCULATOR_CALCULATOR_H
+#endif
