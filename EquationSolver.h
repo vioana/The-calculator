@@ -34,4 +34,4 @@ public:
 ostream& operator<<(ostream& os, const EquationSolver& equationSolver);
 istream& operator>>(istream& is, EquationSolver& equationSolver);
 
-#endif // EQUATIONSOLVER_H
+#endif
