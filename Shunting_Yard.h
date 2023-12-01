@@ -41,4 +41,4 @@ public:
 ostream& operator << (ostream& out, Shunting_Yard& sy);
 
 istream& operator>>(istream& in, Shunting_Yard& sy);
-#endif //SCIENTIFIC_CALCULATOR_SHUNTING_YARD_H
+#endif
