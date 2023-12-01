@@ -33,4 +33,4 @@ public:
 ostream& operator<<(ostream& out, Stack& s);
 istream& operator>>(istream& in, Stack& s);
 
-#endif // SCIENTIFIC_CALCULATOR_STACK_H
+#endif 
